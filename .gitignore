@@ -3,7 +3,4 @@ __pycache__/
 *.pyc
 .DS_Store
 models/
-data/raw/*.csv
-data/processed/*.csv
-data/predictions/*.csv
 reports/*.md
